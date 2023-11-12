@@ -1,0 +1,53 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    gap: 10px;
+    background-color: rgb(67, 67, 194);
+  }
+  
+  .column {
+    border: 0px solid black;
+    padding: 3px;
+
+  }
+
+ 
+  
+  .icono {
+    
+    width: 20%;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    
+  }
+  .tienda {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center; 
+    color: aliceblue;
+
+  }
+  .container2 {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    gap: 10px;
+    background-color: rgb(141, 141, 214);
+  }
+  
+  .main {
+    border: 0px solid black;
+    padding: 3px;
+    
+
+  }
+
+
+  .item {
+
+    font-family: 'Open Sans', sans-serif;
+
+  }
+  
+
+  
