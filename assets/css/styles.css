@@ -123,6 +123,7 @@
 .footer-bottom {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
 }
 
 
@@ -135,7 +136,7 @@
 }
 
 .highlight {
-  font-family: Times New Roman, serif;
+  font-family: 'Open Sans', sans-serif;
   color: rgb(82, 78, 78);
   font-size: 16px;
 }
