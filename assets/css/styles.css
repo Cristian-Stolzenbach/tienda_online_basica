@@ -48,6 +48,7 @@
 .item {
 
   font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
 
 }
 
@@ -127,4 +128,15 @@
   justify-content: center;
   align-items: center;
   padding: 15px;
+}
+.cat {
+  font-family: 'Roboto', sans-serif;
+  text-align:left;
+
+}
+
+.highlight {
+  font-family: Times New Roman, serif;
+  color: rgb(82, 78, 78);
+  font-size: 16px;
 }
